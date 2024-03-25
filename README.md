@@ -209,5 +209,5 @@ Function Prototypes
 	- Searching for a node in a binary heap of size n.
 
 ## Authors
-PAUL INEH <inehpaul@gmail.com>
-BISOLA ADEBOYE <bisimi16@gmail.com>
+> PAUL INEH <inehpaul@gmail.com>
+> BISOLA ADEBOYE <bisimi16@gmail.com>
